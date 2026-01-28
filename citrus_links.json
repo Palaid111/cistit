@@ -1,8 +1,9 @@
 {
-  "youtube": "https://www.youtube.com/",
-  "telegram": "https://t.me/",
-  "discord": "https://discord.gg/",
-  "version": "1.0",
+  "youtube": "https://t.me/citrusclient",
+  "telegram": "https://t.me/citrusclient",
+  "discord": "https://t.me/citrusclient",
+  "version": "2.0",
   "timestamp": "2024-01-21T12:00:00Z",
   "author": "Citrus Team"
+
 }
