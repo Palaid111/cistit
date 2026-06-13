@@ -12,6 +12,13 @@
     "ip": "play.funtime.su:25565",
     "iconUrl": "https://example.com/icon2.png",
     "motd": "Отсосите мой хуй!"
+  },
+  {
+    "position": 3,
+    "name": "А ПОЛИТИКА - ЗЛО",
+    "ip": "mc.politmine.ru:25565",
+    "iconUrl": "https://example.com/icon2.png",
+    "motd": "Отсосите мой хуй!"
   }
 
 ]
